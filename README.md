@@ -184,6 +184,8 @@ An unpaired t-test was also performed treating FGM and FGA as separate samples.
 ---
 
 
-**AI MENTIONS LOWKEY GPT DA GOAT**
+## **AI MENTIONS LOWKEY GPT DA GOAT**
+
 I ACCIDENTALLY BACKSPACED USING MY MOUSE AND DELETED ALMOST HALF OF THIS STUPID README. I HAD IT HELP ME OUT BY PLUGGING IN MY CODE AND MAKING IT GENERATE THE 2ND HALF IN MY STYLE OF WRITING. THIS IS SO POOP LOL
+
 Anyways, I plugged my Jupyter file into ChatGPT, aswell as my first half of answers and asked it to generate a similar 2nd half of answers. A very good wake up call to change the keybinds on my mouse lol...
